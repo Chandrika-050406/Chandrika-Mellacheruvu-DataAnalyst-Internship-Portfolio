@@ -209,7 +209,7 @@ These projects strengthened both my technical knowledge and my ability to solve 
 # 📸 Project Screenshots
 ## Power BI Dashboard
 
-![Dashboard](Images/dashboard.png)
+![Dashboard](Images/Dashboard.png)
 
 ---
 
