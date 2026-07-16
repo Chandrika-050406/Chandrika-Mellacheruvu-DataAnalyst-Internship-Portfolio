@@ -38,7 +38,7 @@ Throughout this internship, I worked on real-world datasets and completed end-to
 - Business Intelligence
 - Hypothesis Testing
 - Statistical Analysis
-- Git & GitHub
+- GitHub
 - Data Storytelling
 
 ---
