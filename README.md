@@ -200,8 +200,6 @@ These projects strengthened both my technical knowledge and my ability to solve 
 - SQL
 - Power BI
 - Microsoft Excel
-- Jupyter Notebook
-- Git
 - GitHub
 
 ---
