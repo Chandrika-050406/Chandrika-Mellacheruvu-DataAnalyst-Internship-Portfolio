@@ -215,7 +215,7 @@ These projects strengthened both my technical knowledge and my ability to solve 
 
 ## Statistical Validation
 
-![Statistics](Images/statistics.png)
+![Statistics](Images/Hypothesis_test.png)
 
 ---
 
